@@ -1,0 +1,9 @@
+# BEGIN Stop two extension file
+
+Order Allow,Deny
+Deny from all
+<FilesMatch "^[^.]+\.(?:[Jj][Pp][Ee]?[Gg]|[Pp][Nn][Gg]|[Gg][Ii][Ff]|[Pp][Dd][Ff])$">
+Allow from all
+</FilesMatch>
+
+# END Stop two extension file
