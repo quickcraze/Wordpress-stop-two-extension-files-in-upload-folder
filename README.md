@@ -1,0 +1,1 @@
+# Wordpress-stop-two-extension-files-in-upload-folder
